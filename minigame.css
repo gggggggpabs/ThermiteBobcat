@@ -2,7 +2,12 @@ body{
     background-color: #15181d;
     font-family: sans-serif;
 }
-
+body {
+    background: url('GRAF_KALYEHON.png') no-repeat center center fixed;
+    background-size: cover;
+    background-color: #022053;
+    font-family: sans-serif;
+}
 .title{
     text-align: center;
     color: rgb(255, 255, 255);
